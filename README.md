@@ -6,7 +6,7 @@ Jogo de Sudoku desenvolvido em **C# com WPF**, com geração automática de puzz
 
 ## 📸 Preview
 
-<img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner de Mitologia" width="100%">
+<img src="Captura de Tela (131).png" alt="Banner de Mitologia" width="100%">
 ---
 
 ## 🚀 Funcionalidades
